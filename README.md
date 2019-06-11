@@ -6,6 +6,6 @@ This is the undergraduate thesis for my double degree in statistics.
 
 The PNL and the traded volume is shown below:
 
-![PNL](iamge/bestpnl.png)
+![PNL](Image/bestpnl.png)
 
-![traded volume](iamge/tradevol.png)
+![traded volume](Image/tradevol.png)
